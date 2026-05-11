@@ -1,0 +1,124 @@
+# RomantiCode · LegacyDoc AI
+
+**AI code audit report and cleanup readiness for AI-generated and vibe-coded projects.**
+
+This is the public profile for [RomantiCode](https://www.romanticode.com/) and
+our flagship product, **LegacyDoc AI** — a VS Code extension that turns
+real-world codebases (legacy projects, AI-generated MVPs, vibe-coded
+prototypes, inherited apps) into documented, audit-ready projects.
+
+> **Not an open-source repository.**
+> This repository contains **no product source code**.
+> Source code for the commercial VS Code extension **is not published here**.
+> This is a public product profile and documentation entry point — it exists
+> to give Google, users, and developer-tool directories a stable, citable
+> URL for the product. The extension is distributed only via the
+> [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai).
+
+---
+
+## What we do
+
+LegacyDoc AI generates, from your local codebase inside VS Code:
+
+- Inline JSDoc, comments, and explanatory docstrings
+- Standalone Markdown documentation files
+- Mermaid architecture diagrams
+- Module and folder summaries
+- Areas to inspect and cleanup priorities
+- An AI-ready context pack for Claude Code, Cursor, or Codex
+
+It is built for the workflow developers actually face in 2026:
+
+> The AI-generated app runs. Now what do you clean up, what's safe to
+> refactor, and what context do you hand to the next developer or AI tool?
+
+---
+
+## Links
+
+### Product
+
+- Website: https://www.romanticode.com/
+- Product page: https://www.romanticode.com/legacydoc-ai/
+- VS Code Marketplace: https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai
+
+### Tools and examples
+
+- AI Code Audit Report: https://www.romanticode.com/tools/ai-code-audit-report/
+- Example audit report: https://www.romanticode.com/examples/ai-code-audit-report/
+
+### Use cases and resources
+
+- Vibe code cleanup readiness: https://www.romanticode.com/use-cases/vibe-code-cleanup/
+- AI code audit checklist: https://www.romanticode.com/blog/ai-code-audit-checklist/
+
+### Legal
+
+- Privacy: https://www.romanticode.com/privacy/
+- Terms: https://www.romanticode.com/terms/
+
+---
+
+## How it works
+
+1. Install the extension from the VS Code Marketplace.
+2. Set your own AI provider API key (Anthropic, OpenAI, Google, xAI, or a
+   custom OpenAI-compatible endpoint).
+3. Right-click a file or folder → generate docs, Markdown, or a full project
+   analysis.
+4. Review the output in a diff preview before anything is written to your
+   files.
+5. Share the generated context with Claude Code, Cursor, Codex, or with a
+   human reviewer.
+
+---
+
+## Pricing
+
+- **Free** — 5 generations per day. Inline JSDoc, Markdown, Mermaid diagrams.
+- **Pro ($29 one-time)** — Unlimited generations, project-level analysis,
+  custom prompt templates, up to 3 devices.
+
+Get Pro: https://www.creem.io/payment/prod_6A1crhhY1jAOyEPrIkJPuY
+
+---
+
+## Privacy and boundaries
+
+Runs inside VS Code + BYOK. No code storage or proxying by RomantiCode.
+
+Your code is sent directly from your machine to the AI provider you configure
+(Anthropic, OpenAI, Google, xAI, or a custom endpoint). RomantiCode does not
+see, store, or proxy your code.
+
+LegacyDoc AI **does not**:
+
+- Replace a professional security audit
+- Automatically fix code
+- Guarantee production readiness
+- Modify your code without a diff preview
+
+It **helps you** understand, document, prioritize, and prepare the codebase
+before cleanup, refactor, review, or handoff.
+
+---
+
+## Support
+
+- Email: contact@romanticode.com
+- VS Code Marketplace Q&A: https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai
+- Website: https://www.romanticode.com/
+
+---
+
+## More documentation
+
+- [docs/links.md](docs/links.md) — Canonical URL list for submissions and
+  sharing
+- [docs/submission-copy.md](docs/submission-copy.md) — Ready-to-use copy for
+  directory submissions, Marketplace descriptions, and short social posts
+
+---
+
+© RomantiCode. All rights reserved.
