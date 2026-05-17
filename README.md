@@ -41,6 +41,7 @@ It is built for the workflow developers actually face in 2026:
 
 - Website: https://www.romanticode.com/
 - Product page: https://www.romanticode.com/legacydoc-ai/
+- Pricing: https://www.romanticode.com/pricing/
 - VS Code Marketplace: https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai
 
 ### Tools and examples
@@ -80,7 +81,9 @@ It is built for the workflow developers actually face in 2026:
 - **Pro ($29 one-time)** — Unlimited generations, project-level analysis,
   custom prompt templates, up to 3 devices.
 
-Get Pro: https://www.creem.io/payment/prod_6A1crhhY1jAOyEPrIkJPuY
+Compare plans: https://www.romanticode.com/pricing/
+
+Get Pro directly: https://www.creem.io/payment/prod_6A1crhhY1jAOyEPrIkJPuY
 
 ---
 

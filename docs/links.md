@@ -9,8 +9,9 @@ site's canonical and sitemap.
 | --- | --- |
 | Home | https://www.romanticode.com/ |
 | Product page | https://www.romanticode.com/legacydoc-ai/ |
+| Pricing page | https://www.romanticode.com/pricing/ |
 | VS Code Marketplace | https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai |
-| Pro checkout | https://www.creem.io/payment/prod_6A1crhhY1jAOyEPrIkJPuY |
+| Pro checkout direct | https://www.creem.io/payment/prod_6A1crhhY1jAOyEPrIkJPuY |
 
 ## Tool and examples
 

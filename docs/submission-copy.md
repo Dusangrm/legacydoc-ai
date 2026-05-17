@@ -12,6 +12,7 @@ short social posts. All text is safe against the site's "do not say" rules.
 - Publisher (VS Code Marketplace): `ruilegendoc`
 - Primary URL: https://www.romanticode.com/tools/ai-code-audit-report/
 - Product URL: https://www.romanticode.com/legacydoc-ai/
+- Pricing URL: https://www.romanticode.com/pricing/
 - Install URL: https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai
 - Demo / example URL: https://www.romanticode.com/examples/ai-code-audit-report/
 - Category: Developer Tools / AI Coding Tools / Code Documentation / Code Audit
