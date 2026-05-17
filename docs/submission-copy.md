@@ -15,6 +15,8 @@ short social posts. All text is safe against the site's "do not say" rules.
 - Pricing URL: https://www.romanticode.com/pricing/
 - Install URL: https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai
 - Demo / example URL: https://www.romanticode.com/examples/ai-code-audit-report/
+- Real VS Code screenshot: https://www.romanticode.com/images/legacydoc-vscode-real-workspace.png
+- Interface preview: https://www.romanticode.com/images/legacydoc-vscode-context-pack.png
 - Category: Developer Tools / AI Coding Tools / Code Documentation / Code Audit
 - Pricing: Free tier (5 generations/day) + Pro $29 one-time
 - Platforms: VS Code (Windows, macOS, Linux)

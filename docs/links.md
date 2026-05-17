@@ -20,6 +20,14 @@ site's canonical and sitemap.
 | AI Code Audit Report tool | https://www.romanticode.com/tools/ai-code-audit-report/ |
 | Example audit report | https://www.romanticode.com/examples/ai-code-audit-report/ |
 
+## Visual assets
+
+| Purpose | URL |
+| --- | --- |
+| Real VS Code workspace screenshot | https://www.romanticode.com/images/legacydoc-vscode-real-workspace.png |
+| Interface preview image | https://www.romanticode.com/images/legacydoc-vscode-context-pack.png |
+| Product icon 512 PNG | https://www.romanticode.com/images/legacydoc-icon-512.png |
+
 ## Use cases and resources
 
 | Purpose | URL |
