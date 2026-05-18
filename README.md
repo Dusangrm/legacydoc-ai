@@ -51,7 +51,9 @@ It is built for the workflow developers actually face in 2026:
 
 ### Use cases and resources
 
+- AI codebase context / PROJECT.md template: https://www.romanticode.com/use-cases/ai-codebase-context/
 - Vibe code cleanup readiness: https://www.romanticode.com/use-cases/vibe-code-cleanup/
+- Document legacy code: https://www.romanticode.com/use-cases/document-legacy-code/
 - AI code audit checklist: https://www.romanticode.com/blog/ai-code-audit-checklist/
 
 ### Legal

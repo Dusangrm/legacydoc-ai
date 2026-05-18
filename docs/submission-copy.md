@@ -15,7 +15,10 @@ short social posts. All text is safe against the site's "do not say" rules.
 - Pricing URL: https://www.romanticode.com/pricing/
 - Install URL: https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai
 - Demo / example URL: https://www.romanticode.com/examples/ai-code-audit-report/
+- AI codebase context URL: https://www.romanticode.com/use-cases/ai-codebase-context/
+- Document legacy code URL: https://www.romanticode.com/use-cases/document-legacy-code/
 - Real VS Code screenshot: https://www.romanticode.com/images/legacydoc-vscode-real-workspace.png
+- Community card screenshot: https://www.romanticode.com/images/legacydoc-community-card.png
 - Interface preview: https://www.romanticode.com/images/legacydoc-vscode-context-pack.png
 - Category: Developer Tools / AI Coding Tools / Code Documentation / Code Audit
 - Pricing: Free tier (5 generations/day) + Pro $29 one-time
@@ -101,6 +104,7 @@ Primary:
 - vs code extension
 - architecture map
 - context pack
+- project.md template
 - jsdoc
 - mermaid
 - byok

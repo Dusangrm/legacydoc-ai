@@ -25,6 +25,7 @@ site's canonical and sitemap.
 | Purpose | URL |
 | --- | --- |
 | Real VS Code workspace screenshot | https://www.romanticode.com/images/legacydoc-vscode-real-workspace.png |
+| Community distribution card | https://www.romanticode.com/images/legacydoc-community-card.png |
 | Interface preview image | https://www.romanticode.com/images/legacydoc-vscode-context-pack.png |
 | Product icon 512 PNG | https://www.romanticode.com/images/legacydoc-icon-512.png |
 
@@ -32,6 +33,8 @@ site's canonical and sitemap.
 
 | Purpose | URL |
 | --- | --- |
+| AI codebase context / PROJECT.md template | https://www.romanticode.com/use-cases/ai-codebase-context/ |
+| Document legacy code | https://www.romanticode.com/use-cases/document-legacy-code/ |
 | Vibe code cleanup readiness | https://www.romanticode.com/use-cases/vibe-code-cleanup/ |
 | AI code audit checklist | https://www.romanticode.com/blog/ai-code-audit-checklist/ |
 | What is a vibe code cleanup specialist | https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/ |
@@ -71,3 +74,5 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/ai-code-audit-report/`.
 - Primary landing URL for AI-generated code / vibe code cleanup audiences:
   `https://www.romanticode.com/use-cases/vibe-code-cleanup/`.
+- Primary landing URL for AI coding context / PROJECT.md template audiences:
+  `https://www.romanticode.com/use-cases/ai-codebase-context/`.
