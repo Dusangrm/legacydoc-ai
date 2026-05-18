@@ -54,6 +54,13 @@ site's canonical and sitemap.
 | Sitemap | https://www.romanticode.com/sitemap-0.xml |
 | Robots | https://www.romanticode.com/robots.txt |
 
+## External listings and references
+
+| Purpose | URL |
+| --- | --- |
+| Awesome AI Code Review listing | https://github.com/kodustech/awesome-ai-code-review |
+| Merged PR for Awesome AI Code Review listing | https://github.com/kodustech/awesome-ai-code-review/pull/9 |
+
 ## Contact
 
 - Email: contact@romanticode.com

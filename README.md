@@ -56,6 +56,10 @@ It is built for the workflow developers actually face in 2026:
 - Document legacy code: https://www.romanticode.com/use-cases/document-legacy-code/
 - AI code audit checklist: https://www.romanticode.com/blog/ai-code-audit-checklist/
 
+### External listings
+
+- Awesome AI Code Review: https://github.com/kodustech/awesome-ai-code-review
+
 ### Legal
 
 - Privacy: https://www.romanticode.com/privacy/
