@@ -61,6 +61,8 @@ site's canonical and sitemap.
 | --- | --- |
 | Awesome AI Code Review listing | https://github.com/kodustech/awesome-ai-code-review |
 | Merged PR for Awesome AI Code Review listing | https://github.com/kodustech/awesome-ai-code-review/pull/9 |
+| Awesome AI Startups listing | https://github.com/nowork-studio/awesome-ai-startups |
+| Merged PR for Awesome AI Startups listing | https://github.com/nowork-studio/awesome-ai-startups/pull/13 |
 
 ## Contact
 

@@ -60,6 +60,7 @@ It is built for the workflow developers actually face in 2026:
 ### External listings
 
 - Awesome AI Code Review: https://github.com/kodustech/awesome-ai-code-review
+- Awesome AI Startups: https://github.com/nowork-studio/awesome-ai-startups
 
 ### Legal
 
