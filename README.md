@@ -1,6 +1,6 @@
 # RomantiCode · LegacyDoc AI
 
-**AI code audit report and cleanup readiness for AI-generated and vibe-coded projects.**
+**Audit AI code in VS Code and prepare AI-generated projects for cleanup.**
 
 This is the public profile for [RomantiCode](https://www.romanticode.com/) and
 our flagship product, **LegacyDoc AI** — a VS Code extension that turns
@@ -46,7 +46,7 @@ It is built for the workflow developers actually face in 2026:
 
 ### Tools and examples
 
-- AI Code Audit Report: https://www.romanticode.com/tools/ai-code-audit-report/
+- Audit AI code in VS Code: https://www.romanticode.com/tools/ai-code-audit-report/
 - Example audit report: https://www.romanticode.com/examples/ai-code-audit-report/
 
 ### Use cases and resources

@@ -32,9 +32,8 @@ short social posts. All text is safe against the site's "do not say" rules.
 
 For **AI tool directories**:
 
-> LegacyDoc AI generates AI code audit reports and AI-ready context packs
-> from AI-generated or vibe-coded codebases, inside VS Code with your own
-> AI provider key.
+> LegacyDoc AI helps you audit AI code in VS Code by generating architecture
+> maps, cleanup priorities, and AI-ready context packs from local codebases.
 
 For **developer tool directories**:
 
@@ -53,9 +52,9 @@ For **Reddit / community**:
 
 **80 characters or less:**
 
-> AI code audit reports for AI-generated code, run inside VS Code (BYOK).
+> Audit AI code in VS Code before cleanup or refactoring (BYOK).
 
-(72 characters)
+(64 characters)
 
 **160 characters or less:**
 
@@ -209,9 +208,10 @@ Before any cleanup, refactor, or handoff — you need:
 • Cleanup priorities
 • An AI-ready context pack you can hand to Claude Code, Cursor, or Codex
 
-I built LegacyDoc AI for exactly this. It's a VS Code extension that
-generates an AI Code Audit Report from your own codebase. BYOK to your AI
-provider. No code storage or proxying by RomantiCode.
+I built LegacyDoc AI for exactly this. It's a VS Code extension that helps
+you audit AI code in VS Code by generating an audit-ready context pack from
+your own codebase. BYOK to your AI provider. No code storage or proxying by
+RomantiCode.
 
 If you're sitting on a working-but-fragile AI-built app, this is the
 cheapest first step before either hiring help or refactoring with AI.

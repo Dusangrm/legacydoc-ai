@@ -17,7 +17,7 @@ site's canonical and sitemap.
 
 | Purpose | URL |
 | --- | --- |
-| AI Code Audit Report tool | https://www.romanticode.com/tools/ai-code-audit-report/ |
+| Audit AI code in VS Code tool | https://www.romanticode.com/tools/ai-code-audit-report/ |
 | Example audit report | https://www.romanticode.com/examples/ai-code-audit-report/ |
 
 ## Visual assets
@@ -77,7 +77,7 @@ site's canonical and sitemap.
   `images/*`) must stay slash-free.
 - Do not use shortened URLs in public submissions — submit the canonical
   trailing-slash URL directly.
-- Primary landing URL for paid ad campaigns and external directories:
+- Primary landing URL for "audit AI code" and AI code audit directories:
   `https://www.romanticode.com/tools/ai-code-audit-report/`.
 - Primary landing URL for AI-generated code / vibe code cleanup audiences:
   `https://www.romanticode.com/use-cases/vibe-code-cleanup/`.
