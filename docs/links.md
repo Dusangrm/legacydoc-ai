@@ -35,7 +35,7 @@ site's canonical and sitemap.
 | --- | --- |
 | AI codebase context / PROJECT.md template | https://www.romanticode.com/use-cases/ai-codebase-context/ |
 | Document legacy code | https://www.romanticode.com/use-cases/document-legacy-code/ |
-| Vibe code cleanup readiness | https://www.romanticode.com/use-cases/vibe-code-cleanup/ |
+| Vibe code cleanup services prep | https://www.romanticode.com/use-cases/vibe-code-cleanup/ |
 | AI code audit checklist | https://www.romanticode.com/blog/ai-code-audit-checklist/ |
 | AI-generated code production ready checklist | https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/ |
 | What is a vibe code cleanup specialist | https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/ |
@@ -80,7 +80,7 @@ site's canonical and sitemap.
   trailing-slash URL directly.
 - Primary landing URL for "audit AI code" and AI code audit directories:
   `https://www.romanticode.com/tools/ai-code-audit-report/`.
-- Primary landing URL for AI-generated code / vibe code cleanup audiences:
+- Primary landing URL for AI-generated code / vibe code cleanup services prep audiences:
   `https://www.romanticode.com/use-cases/vibe-code-cleanup/`.
 - Primary landing URL for AI coding context / PROJECT.md template audiences:
   `https://www.romanticode.com/use-cases/ai-codebase-context/`.
