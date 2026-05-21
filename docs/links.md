@@ -37,6 +37,7 @@ site's canonical and sitemap.
 | AI codebase context / PROJECT.md template | https://www.romanticode.com/use-cases/ai-codebase-context/ |
 | Document legacy code | https://www.romanticode.com/use-cases/document-legacy-code/ |
 | Vibe code cleanup services prep | https://www.romanticode.com/use-cases/vibe-code-cleanup/ |
+| AI frontend refactor workflow | https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/ |
 | AI code audit checklist | https://www.romanticode.com/blog/ai-code-audit-checklist/ |
 | AI-generated code production ready checklist | https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/ |
 | What is a vibe code cleanup specialist | https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/ |
@@ -89,5 +90,7 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/`.
 - Primary landing URL for AI coding context / PROJECT.md template audiences:
   `https://www.romanticode.com/use-cases/ai-codebase-context/`.
+- Primary resource URL for AI frontend refactor / refactor frontend code with AI audiences:
+  `https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/`.
 - Primary resource URL for AI-generated code production readiness / before shipping audiences:
   `https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/`.

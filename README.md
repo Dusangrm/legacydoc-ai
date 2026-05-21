@@ -55,6 +55,7 @@ It is built for the workflow developers actually face in 2026:
 - AI codebase context / PROJECT.md template: https://www.romanticode.com/use-cases/ai-codebase-context/
 - Vibe code cleanup services prep: https://www.romanticode.com/use-cases/vibe-code-cleanup/
 - Document legacy code: https://www.romanticode.com/use-cases/document-legacy-code/
+- AI frontend refactor workflow: https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/
 - AI code audit checklist: https://www.romanticode.com/blog/ai-code-audit-checklist/
 - AI-generated code production ready checklist: https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/
 
