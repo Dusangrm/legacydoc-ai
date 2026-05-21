@@ -47,6 +47,7 @@ It is built for the workflow developers actually face in 2026:
 ### Tools and examples
 
 - Audit AI code in VS Code: https://www.romanticode.com/tools/ai-code-audit-report/
+- Vibe code cleanup cost calculator: https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/
 - Example audit report: https://www.romanticode.com/examples/ai-code-audit-report/
 
 ### Use cases and resources

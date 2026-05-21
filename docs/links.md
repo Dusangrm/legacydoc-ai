@@ -18,6 +18,7 @@ site's canonical and sitemap.
 | Purpose | URL |
 | --- | --- |
 | Audit AI code in VS Code tool | https://www.romanticode.com/tools/ai-code-audit-report/ |
+| Vibe code cleanup cost calculator | https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/ |
 | Example audit report | https://www.romanticode.com/examples/ai-code-audit-report/ |
 
 ## Visual assets
@@ -84,6 +85,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/ai-code-audit-report/`.
 - Primary landing URL for AI-generated code / vibe code cleanup services prep audiences:
   `https://www.romanticode.com/use-cases/vibe-code-cleanup/`.
+- Primary tool URL for vibe code cleanup cost / quote / budget audiences:
+  `https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/`.
 - Primary landing URL for AI coding context / PROJECT.md template audiences:
   `https://www.romanticode.com/use-cases/ai-codebase-context/`.
 - Primary resource URL for AI-generated code production readiness / before shipping audiences:
