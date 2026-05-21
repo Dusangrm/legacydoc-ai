@@ -10,6 +10,7 @@ site's canonical and sitemap.
 | Home | https://www.romanticode.com/ |
 | Product page | https://www.romanticode.com/legacydoc-ai/ |
 | Pricing page | https://www.romanticode.com/pricing/ |
+| AI App Launch Audit service | https://www.romanticode.com/services/ai-app-launch-audit/ |
 | VS Code Marketplace | https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai |
 | Pro checkout direct | https://www.creem.io/payment/prod_6A1crhhY1jAOyEPrIkJPuY |
 
@@ -36,6 +37,7 @@ site's canonical and sitemap.
 | Purpose | URL |
 | --- | --- |
 | AI codebase context / PROJECT.md template | https://www.romanticode.com/use-cases/ai-codebase-context/ |
+| AI app launch audit service | https://www.romanticode.com/services/ai-app-launch-audit/ |
 | Document legacy code | https://www.romanticode.com/use-cases/document-legacy-code/ |
 | Vibe code cleanup services prep | https://www.romanticode.com/use-cases/vibe-code-cleanup/ |
 | AI frontend refactor workflow | https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/ |
@@ -87,6 +89,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/ai-code-audit-report/`.
 - Primary landing URL for AI-generated code / vibe code cleanup services prep audiences:
   `https://www.romanticode.com/use-cases/vibe-code-cleanup/`.
+- Primary landing URL for AI app launch audit / AI-generated app cleanup scope / production handoff audiences:
+  `https://www.romanticode.com/services/ai-app-launch-audit/`.
 - Primary tool URL for vibe code cleanup cost / quote / budget audiences:
   `https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/`.
 - Primary tool URL for AGENTS.md / AI coding agent instructions audiences:

@@ -42,6 +42,7 @@ It is built for the workflow developers actually face in 2026:
 - Website: https://www.romanticode.com/
 - Product page: https://www.romanticode.com/legacydoc-ai/
 - Pricing: https://www.romanticode.com/pricing/
+- AI App Launch Audit: https://www.romanticode.com/services/ai-app-launch-audit/
 - VS Code Marketplace: https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai
 
 ### Tools and examples
@@ -55,6 +56,7 @@ It is built for the workflow developers actually face in 2026:
 
 - AI codebase context / PROJECT.md template: https://www.romanticode.com/use-cases/ai-codebase-context/
 - Vibe code cleanup services prep: https://www.romanticode.com/use-cases/vibe-code-cleanup/
+- AI app launch audit service: https://www.romanticode.com/services/ai-app-launch-audit/
 - Document legacy code: https://www.romanticode.com/use-cases/document-legacy-code/
 - AI frontend refactor workflow: https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/
 - AI code audit checklist: https://www.romanticode.com/blog/ai-code-audit-checklist/
