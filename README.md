@@ -48,6 +48,7 @@ It is built for the workflow developers actually face in 2026:
 ### Tools and examples
 
 - Audit AI code in VS Code: https://www.romanticode.com/tools/ai-code-audit-report/
+- CodeGraph token savings calculator: https://www.romanticode.com/tools/codegraph-token-savings-calculator/
 - Vibe code cleanup cost calculator: https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/
 - AGENTS.md generator for AI coding agents: https://www.romanticode.com/tools/agents-md-generator/
 - Example audit report: https://www.romanticode.com/examples/ai-code-audit-report/

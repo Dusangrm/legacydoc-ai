@@ -19,6 +19,7 @@ site's canonical and sitemap.
 | Purpose | URL |
 | --- | --- |
 | Audit AI code in VS Code tool | https://www.romanticode.com/tools/ai-code-audit-report/ |
+| CodeGraph token savings calculator | https://www.romanticode.com/tools/codegraph-token-savings-calculator/ |
 | Vibe code cleanup cost calculator | https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/ |
 | AGENTS.md generator for AI coding agents | https://www.romanticode.com/tools/agents-md-generator/ |
 | Example audit report | https://www.romanticode.com/examples/ai-code-audit-report/ |
@@ -95,6 +96,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/`.
 - Primary tool URL for AGENTS.md / AI coding agent instructions audiences:
   `https://www.romanticode.com/tools/agents-md-generator/`.
+- Primary tool URL for code graph / coding agent token savings / AI codebase context audiences:
+  `https://www.romanticode.com/tools/codegraph-token-savings-calculator/`.
 - Primary landing URL for AI coding context / PROJECT.md template audiences:
   `https://www.romanticode.com/use-cases/ai-codebase-context/`.
 - Primary resource URL for AI frontend refactor / refactor frontend code with AI audiences:
