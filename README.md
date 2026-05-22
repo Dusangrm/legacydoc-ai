@@ -1,6 +1,6 @@
 # RomantiCode · LegacyDoc AI
 
-**Audit AI code in VS Code and prepare AI-generated projects for cleanup.**
+**Audit and verify AI-generated code in VS Code before cleanup, refactor, or launch.**
 
 This is the public profile for [RomantiCode](https://www.romanticode.com/) and
 our flagship product, **LegacyDoc AI** — a VS Code extension that turns
@@ -26,6 +26,7 @@ LegacyDoc AI generates, from your local codebase inside VS Code:
 - Mermaid architecture diagrams
 - Module and folder summaries
 - Areas to inspect and cleanup priorities
+- AI code verification scope for architecture, risky flows, generated assumptions, and review evidence
 - An AI-ready context pack for Claude Code, Cursor, or Codex
 
 It is built for the workflow developers actually face in 2026:
@@ -47,7 +48,7 @@ It is built for the workflow developers actually face in 2026:
 
 ### Tools and examples
 
-- Audit AI code in VS Code: https://www.romanticode.com/tools/ai-code-audit-report/
+- Audit and verify AI-generated code in VS Code: https://www.romanticode.com/tools/ai-code-audit-report/
 - CodeGraph token savings calculator: https://www.romanticode.com/tools/codegraph-token-savings-calculator/
 - Vibe code cleanup cost calculator: https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/
 - AGENTS.md generator for AI coding agents: https://www.romanticode.com/tools/agents-md-generator/
@@ -113,6 +114,7 @@ see, store, or proxy your code.
 LegacyDoc AI **does not**:
 
 - Replace a professional security audit
+- Replace SAST, CI, dependency scanning, or compliance review
 - Automatically fix code
 - Guarantee production readiness
 - Modify your code without a diff preview
