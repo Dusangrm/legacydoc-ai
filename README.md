@@ -67,6 +67,7 @@ It is built for the workflow developers actually face in 2026:
 
 - Awesome AI Code Review: https://github.com/kodustech/awesome-ai-code-review
 - Awesome AI Startups: https://github.com/nowork-studio/awesome-ai-startups
+- Awesome Vibe Coding Resources: https://github.com/acvnace/awesome-vibe-coding-resources
 
 ### Legal
 

@@ -69,6 +69,8 @@ site's canonical and sitemap.
 | Merged PR for Awesome AI Code Review listing | https://github.com/kodustech/awesome-ai-code-review/pull/9 |
 | Awesome AI Startups listing | https://github.com/nowork-studio/awesome-ai-startups |
 | Merged PR for Awesome AI Startups listing | https://github.com/nowork-studio/awesome-ai-startups/pull/13 |
+| Awesome Vibe Coding Resources listing | https://github.com/acvnace/awesome-vibe-coding-resources |
+| Merged PR for Awesome Vibe Coding Resources listing | https://github.com/acvnace/awesome-vibe-coding-resources/pull/16 |
 
 ## Contact
 
