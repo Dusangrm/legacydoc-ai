@@ -37,7 +37,7 @@ site's canonical and sitemap.
 
 | Purpose | URL |
 | --- | --- |
-| AI codebase context / PROJECT.md template | https://www.romanticode.com/use-cases/ai-codebase-context/ |
+| AI codebase context map | https://www.romanticode.com/use-cases/ai-codebase-context/ |
 | AI app launch audit service | https://www.romanticode.com/services/ai-app-launch-audit/ |
 | Document legacy code | https://www.romanticode.com/use-cases/document-legacy-code/ |
 | Vibe code cleanup services prep | https://www.romanticode.com/use-cases/vibe-code-cleanup/ |
@@ -103,7 +103,7 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/codegraph-token-savings-calculator/`.
 - Primary resource URL for VS Code extension security / malicious extension / developer workstation trust audiences:
   `https://www.romanticode.com/blog/vs-code-extension-security-checklist/`.
-- Primary landing URL for AI coding context / PROJECT.md template audiences:
+- Primary landing URL for AI codebase context map / codebase knowledge graph / PROJECT.md template audiences:
   `https://www.romanticode.com/use-cases/ai-codebase-context/`.
 - Primary resource URL for AI frontend refactor / refactor frontend code with AI audiences:
   `https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/`.
