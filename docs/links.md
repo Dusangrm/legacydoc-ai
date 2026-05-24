@@ -47,12 +47,21 @@ site's canonical and sitemap.
 | AI app production readiness checklist | https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/ |
 | What is a vibe code cleanup specialist | https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/ |
 
+## AI model workflow guides
+
+| Purpose | URL |
+| --- | --- |
+| AI coding model comparison workflow hub | https://www.romanticode.com/ai-models/ |
+| Composer 2.5 context pack guide | https://www.romanticode.com/ai-models/composer-2-5/ |
+| Gemini 3.5 Flash coding context guide | https://www.romanticode.com/ai-models/gemini-3-5-flash/ |
+| Gemini Omni prompt and context guide | https://www.romanticode.com/ai-models/gemini-omni/ |
+
 ## Legal
 
 | Purpose | URL |
 | --- | --- |
-| Privacy policy | https://www.romanticode.com/privacy/ |
-| Terms | https://www.romanticode.com/terms/ |
+| VS Code extension privacy policy | https://www.romanticode.com/privacy/ |
+| VS Code extension terms of service | https://www.romanticode.com/terms/ |
 
 ## Machine-readable
 
@@ -109,3 +118,17 @@ site's canonical and sitemap.
   `https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/`.
 - Primary resource URL for AI-generated code production readiness / before shipping audiences:
   `https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/`.
+- Primary landing URL for AI code audit pricing / cleanup quote / VS Code extension Pro plan audiences:
+  `https://www.romanticode.com/pricing/`.
+- Primary landing URL for AI coding model comparison / coding agent benchmark workflow audiences:
+  `https://www.romanticode.com/ai-models/`.
+- Primary landing URL for Composer 2.5 / Cursor Composer context pack audiences:
+  `https://www.romanticode.com/ai-models/composer-2-5/`.
+- Primary landing URL for Gemini 3.5 Flash coding / agent workflow audiences:
+  `https://www.romanticode.com/ai-models/gemini-3-5-flash/`.
+- Primary landing URL for Gemini Omni prompt / multimodal product brief audiences:
+  `https://www.romanticode.com/ai-models/gemini-omni/`.
+- Primary legal URL for VS Code extension privacy policy / BYOK code storage review audiences:
+  `https://www.romanticode.com/privacy/`.
+- Primary legal URL for VS Code extension terms of service / license activation review audiences:
+  `https://www.romanticode.com/terms/`.

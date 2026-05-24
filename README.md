@@ -60,6 +60,10 @@ It is built for the workflow developers actually face in 2026:
 - Vibe code cleanup prep: https://www.romanticode.com/use-cases/vibe-code-cleanup/
 - AI app launch audit service: https://www.romanticode.com/services/ai-app-launch-audit/
 - Legacy code documentation: https://www.romanticode.com/use-cases/document-legacy-code/
+- AI coding model comparison workflow hub: https://www.romanticode.com/ai-models/
+- Composer 2.5 context pack guide: https://www.romanticode.com/ai-models/composer-2-5/
+- Gemini 3.5 Flash coding context guide: https://www.romanticode.com/ai-models/gemini-3-5-flash/
+- Gemini Omni prompt and context guide: https://www.romanticode.com/ai-models/gemini-omni/
 - Best way to get AI to completely refactor frontend code: https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/
 - VS Code extension security checklist: https://www.romanticode.com/blog/vs-code-extension-security-checklist/
 - AI code audit checklist: https://www.romanticode.com/blog/ai-code-audit-checklist/
@@ -75,6 +79,13 @@ It is built for the workflow developers actually face in 2026:
 - [Vibe coding cleanup specialist](https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/) — understand cost, scope, and handoff prep before hiring a cleanup specialist.
 - [AI app launch audit](https://www.romanticode.com/services/ai-app-launch-audit/) — request launch-readiness review before real users, demos, cleanup services, or production handoff.
 - [Legacy code documentation](https://www.romanticode.com/use-cases/document-legacy-code/) — generate JSDoc, Markdown docs, architecture maps, module summaries, and AI-ready handoff context before cleanup.
+- [AI code audit pricing](https://www.romanticode.com/pricing/) — compare free and Pro options for audit-ready docs, cleanup handoff, and VS Code context packs.
+- [VS Code extension privacy policy](https://www.romanticode.com/privacy/) — review local-first code handling, BYOK provider keys, no RomantiCode code storage, and no extension telemetry.
+- [VS Code extension terms of service](https://www.romanticode.com/terms/) — review license scope, activation, acceptable use, support boundaries, and AI output responsibility.
+- [AI coding model comparison](https://www.romanticode.com/ai-models/) — compare new coding models with the same context pack, task boundary, and review gate.
+- [Composer 2.5](https://www.romanticode.com/ai-models/composer-2-5/) — prepare a Cursor Composer 2.5 context pack before long-running coding tasks.
+- [Gemini 3.5 Flash](https://www.romanticode.com/ai-models/gemini-3-5-flash/) — plan Gemini 3.5 Flash coding-agent work with repo context and review evidence.
+- [Gemini Omni](https://www.romanticode.com/ai-models/gemini-omni/) — turn multimodal product inputs into a reviewable implementation brief.
 
 ### External listings
 
