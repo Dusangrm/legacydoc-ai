@@ -41,7 +41,7 @@ site's canonical and sitemap.
 | AI app launch audit service | https://www.romanticode.com/services/ai-app-launch-audit/ |
 | Legacy code documentation | https://www.romanticode.com/use-cases/document-legacy-code/ |
 | Vibe code cleanup services prep | https://www.romanticode.com/use-cases/vibe-code-cleanup/ |
-| AI frontend refactor workflow | https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/ |
+| Best way to get AI to completely refactor frontend code | https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/ |
 | VS Code extension security checklist | https://www.romanticode.com/blog/vs-code-extension-security-checklist/ |
 | AI code audit checklist | https://www.romanticode.com/blog/ai-code-audit-checklist/ |
 | AI app production readiness checklist | https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/ |
@@ -105,7 +105,7 @@ site's canonical and sitemap.
   `https://www.romanticode.com/blog/vs-code-extension-security-checklist/`.
 - Primary landing URL for AI codebase understanding / codebase knowledge graph / PROJECT.md template audiences:
   `https://www.romanticode.com/use-cases/ai-codebase-context/`.
-- Primary resource URL for AI frontend refactor / refactor frontend code with AI audiences:
+- Primary resource URL for best way to get AI to completely refactor frontend code / AI frontend refactor audiences:
   `https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/`.
 - Primary resource URL for AI-generated code production readiness / before shipping audiences:
   `https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/`.

@@ -60,7 +60,7 @@ It is built for the workflow developers actually face in 2026:
 - Vibe code cleanup prep: https://www.romanticode.com/use-cases/vibe-code-cleanup/
 - AI app launch audit service: https://www.romanticode.com/services/ai-app-launch-audit/
 - Legacy code documentation: https://www.romanticode.com/use-cases/document-legacy-code/
-- AI frontend refactor workflow: https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/
+- Best way to get AI to completely refactor frontend code: https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/
 - VS Code extension security checklist: https://www.romanticode.com/blog/vs-code-extension-security-checklist/
 - AI code audit checklist: https://www.romanticode.com/blog/ai-code-audit-checklist/
 - AI app production readiness checklist: https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/
