@@ -17,7 +17,7 @@ short social posts. All text is safe against the site's "do not say" rules.
 - Demo / example URL: https://www.romanticode.com/examples/ai-code-audit-report/
 - CodeGraph token savings calculator URL: https://www.romanticode.com/tools/codegraph-token-savings-calculator/
 - AI codebase understanding context map URL: https://www.romanticode.com/use-cases/ai-codebase-context/
-- Document legacy code URL: https://www.romanticode.com/use-cases/document-legacy-code/
+- Legacy code documentation URL: https://www.romanticode.com/use-cases/document-legacy-code/
 - Real VS Code screenshot: https://www.romanticode.com/images/legacydoc-vscode-real-workspace.png
 - Community card screenshot: https://www.romanticode.com/images/legacydoc-community-card.png
 - Interface preview: https://www.romanticode.com/images/legacydoc-vscode-context-pack.png

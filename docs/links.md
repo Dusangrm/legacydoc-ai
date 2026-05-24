@@ -39,7 +39,7 @@ site's canonical and sitemap.
 | --- | --- |
 | AI codebase understanding context map | https://www.romanticode.com/use-cases/ai-codebase-context/ |
 | AI app launch audit service | https://www.romanticode.com/services/ai-app-launch-audit/ |
-| Document legacy code | https://www.romanticode.com/use-cases/document-legacy-code/ |
+| Legacy code documentation | https://www.romanticode.com/use-cases/document-legacy-code/ |
 | Vibe code cleanup services prep | https://www.romanticode.com/use-cases/vibe-code-cleanup/ |
 | AI frontend refactor workflow | https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/ |
 | VS Code extension security checklist | https://www.romanticode.com/blog/vs-code-extension-security-checklist/ |

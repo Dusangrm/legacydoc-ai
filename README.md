@@ -59,7 +59,7 @@ It is built for the workflow developers actually face in 2026:
 - AI codebase understanding context map: https://www.romanticode.com/use-cases/ai-codebase-context/
 - Vibe code cleanup prep: https://www.romanticode.com/use-cases/vibe-code-cleanup/
 - AI app launch audit service: https://www.romanticode.com/services/ai-app-launch-audit/
-- Document legacy code: https://www.romanticode.com/use-cases/document-legacy-code/
+- Legacy code documentation: https://www.romanticode.com/use-cases/document-legacy-code/
 - AI frontend refactor workflow: https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/
 - VS Code extension security checklist: https://www.romanticode.com/blog/vs-code-extension-security-checklist/
 - AI code audit checklist: https://www.romanticode.com/blog/ai-code-audit-checklist/
@@ -74,6 +74,7 @@ It is built for the workflow developers actually face in 2026:
 - [AI codebase understanding](https://www.romanticode.com/use-cases/ai-codebase-context/) — create a codebase map and PROJECT.md-style brief for Claude Code, Cursor, Codex, and other AI coding tools.
 - [Vibe coding cleanup specialist](https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/) — understand cost, scope, and handoff prep before hiring a cleanup specialist.
 - [AI app launch audit](https://www.romanticode.com/services/ai-app-launch-audit/) — request launch-readiness review before real users, demos, cleanup services, or production handoff.
+- [Legacy code documentation](https://www.romanticode.com/use-cases/document-legacy-code/) — generate JSDoc, Markdown docs, architecture maps, module summaries, and AI-ready handoff context before cleanup.
 
 ### External listings
 
