@@ -63,7 +63,7 @@ It is built for the workflow developers actually face in 2026:
 - AI frontend refactor workflow: https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/
 - VS Code extension security checklist: https://www.romanticode.com/blog/vs-code-extension-security-checklist/
 - AI code audit checklist: https://www.romanticode.com/blog/ai-code-audit-checklist/
-- AI-generated code production ready checklist: https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/
+- AI app production readiness checklist: https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/
 
 ### Current SEO target pages
 

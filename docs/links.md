@@ -44,7 +44,7 @@ site's canonical and sitemap.
 | AI frontend refactor workflow | https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/ |
 | VS Code extension security checklist | https://www.romanticode.com/blog/vs-code-extension-security-checklist/ |
 | AI code audit checklist | https://www.romanticode.com/blog/ai-code-audit-checklist/ |
-| AI-generated code production ready checklist | https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/ |
+| AI app production readiness checklist | https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/ |
 | What is a vibe code cleanup specialist | https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/ |
 
 ## Legal
