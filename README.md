@@ -65,6 +65,14 @@ It is built for the workflow developers actually face in 2026:
 - AI code audit checklist: https://www.romanticode.com/blog/ai-code-audit-checklist/
 - AI-generated code production ready checklist: https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/
 
+### Current SEO target pages
+
+- [Code graph for coding agents](https://www.romanticode.com/tools/codegraph-token-savings-calculator/) — estimate token, tool-call, and context prep savings before adopting graph-based agent workflows.
+- [Audit AI code](https://www.romanticode.com/tools/ai-code-audit-report/) — generate an audit-ready context pack before cleanup, refactor, review, or launch.
+- [AI codebase context](https://www.romanticode.com/use-cases/ai-codebase-context/) — create a codebase map and PROJECT.md-style brief for Claude Code, Cursor, Codex, and other AI coding tools.
+- [Vibe coding cleanup services](https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/) — understand cost, scope, and handoff prep before hiring a cleanup specialist.
+- [AI app launch audit](https://www.romanticode.com/services/ai-app-launch-audit/) — request launch-readiness review before real users, demos, cleanup services, or production handoff.
+
 ### External listings
 
 - Awesome AI Code Review: https://github.com/kodustech/awesome-ai-code-review
