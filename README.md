@@ -54,12 +54,14 @@ It is built for the workflow developers actually face in 2026:
 - Vibe code cleanup cost calculator: https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/
 - AGENTS.md generator for AI coding agents: https://www.romanticode.com/tools/agents-md-generator/
 - PROJECT.md template for AI coding agents: https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/
+- AI codebase map example: https://www.romanticode.com/examples/ai-codebase-map-example/
 - AI app launch audit request template: https://www.romanticode.com/templates/ai-app-launch-audit-request-template/
 - Example audit report: https://www.romanticode.com/examples/ai-code-audit-report/
 
 ### Use cases and resources
 
 - AI codebase understanding context map: https://www.romanticode.com/use-cases/ai-codebase-context/
+- AI codebase map example: https://www.romanticode.com/examples/ai-codebase-map-example/
 - Vibe code cleanup prep: https://www.romanticode.com/use-cases/vibe-code-cleanup/
 - Vibe code cleanup checklist: https://www.romanticode.com/blog/vibe-code-cleanup-checklist/
 - Vibe code cleanup brief template: https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/
@@ -85,6 +87,7 @@ It is built for the workflow developers actually face in 2026:
 - [Audit AI code](https://www.romanticode.com/tools/ai-code-audit-report/) — generate an audit-ready context pack before cleanup, refactor, review, or launch.
 - [AI code audit report template](https://www.romanticode.com/templates/ai-code-audit-report-template/) — copy the report structure for architecture context, inspection areas, cleanup priorities, and AI-ready handoff notes.
 - [AI codebase understanding](https://www.romanticode.com/use-cases/ai-codebase-context/) — create a codebase map and PROJECT.md-style brief for Claude Code, Cursor, Codex, and other AI coding tools.
+- [AI codebase map example](https://www.romanticode.com/examples/ai-codebase-map-example/) — study a sample codebase map with entry points, module ownership, data flow, risk areas, and review boundaries.
 - [PROJECT.md template for AI coding agents](https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/) — copy a project context template for Codex, Claude Code, Cursor, Copilot, and other AI coding agents.
 - [Vibe coding cleanup specialist](https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/) — understand cost, scope, and handoff prep before hiring a cleanup specialist.
 - [AI app launch audit](https://www.romanticode.com/services/ai-app-launch-audit/) — request launch-readiness review before real users, demos, cleanup services, or production handoff.
