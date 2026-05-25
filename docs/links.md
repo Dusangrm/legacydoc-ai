@@ -43,6 +43,7 @@ site's canonical and sitemap.
 | Legacy code documentation | https://www.romanticode.com/use-cases/document-legacy-code/ |
 | Vibe code cleanup services prep | https://www.romanticode.com/use-cases/vibe-code-cleanup/ |
 | Vibe code cleanup checklist | https://www.romanticode.com/blog/vibe-code-cleanup-checklist/ |
+| Vibe code cleanup brief template | https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/ |
 | Best way to get AI to completely refactor frontend code | https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/ |
 | VS Code extension security checklist | https://www.romanticode.com/blog/vs-code-extension-security-checklist/ |
 | AI code audit checklist | https://www.romanticode.com/blog/ai-code-audit-checklist/ |
@@ -108,6 +109,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/use-cases/vibe-code-cleanup/`.
 - Primary resource URL for vibe code cleanup checklist / before refactor / cleanup prep checklist audiences:
   `https://www.romanticode.com/blog/vibe-code-cleanup-checklist/`.
+- Primary template URL for vibe code cleanup brief / cleanup quote prep / AI-generated app cleanup handoff audiences:
+  `https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/`.
 - Primary landing URL for AI app launch audit / AI-generated app cleanup scope / production handoff audiences:
   `https://www.romanticode.com/services/ai-app-launch-audit/`.
 - Primary tool URL for vibe code cleanup cost / quote / budget audiences:
