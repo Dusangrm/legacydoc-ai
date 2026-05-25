@@ -25,6 +25,7 @@ site's canonical and sitemap.
 | AGENTS.md generator for AI coding agents | https://www.romanticode.com/tools/agents-md-generator/ |
 | PROJECT.md template for AI coding agents | https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/ |
 | AI codebase map example | https://www.romanticode.com/examples/ai-codebase-map-example/ |
+| Claude Code context file checklist | https://www.romanticode.com/blog/claude-code-context-file-checklist/ |
 | AI app launch audit request template | https://www.romanticode.com/templates/ai-app-launch-audit-request-template/ |
 | Example audit report | https://www.romanticode.com/examples/ai-code-audit-report/ |
 
@@ -43,6 +44,7 @@ site's canonical and sitemap.
 | --- | --- |
 | AI codebase understanding context map | https://www.romanticode.com/use-cases/ai-codebase-context/ |
 | AI codebase map example | https://www.romanticode.com/examples/ai-codebase-map-example/ |
+| Claude Code context file checklist | https://www.romanticode.com/blog/claude-code-context-file-checklist/ |
 | AI app launch audit service | https://www.romanticode.com/services/ai-app-launch-audit/ |
 | AI app launch audit request template | https://www.romanticode.com/templates/ai-app-launch-audit-request-template/ |
 | Legacy code documentation | https://www.romanticode.com/use-cases/document-legacy-code/ |
@@ -134,6 +136,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/use-cases/ai-codebase-context/`.
 - Primary example URL for AI codebase map example / coding-agent context example / repo map handoff audiences:
   `https://www.romanticode.com/examples/ai-codebase-map-example/`.
+- Primary resource URL for Claude Code context file / CLAUDE.md checklist / project memory prep audiences:
+  `https://www.romanticode.com/blog/claude-code-context-file-checklist/`.
 - Primary resource URL for best way to get AI to completely refactor frontend code / AI frontend refactor audiences:
   `https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/`.
 - Primary resource URL for AI-generated code production readiness / before shipping audiences:
