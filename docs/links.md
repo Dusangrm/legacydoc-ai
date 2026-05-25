@@ -24,6 +24,7 @@ site's canonical and sitemap.
 | Vibe code cleanup cost calculator | https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/ |
 | AGENTS.md generator for AI coding agents | https://www.romanticode.com/tools/agents-md-generator/ |
 | PROJECT.md template for AI coding agents | https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/ |
+| AI app launch audit request template | https://www.romanticode.com/templates/ai-app-launch-audit-request-template/ |
 | Example audit report | https://www.romanticode.com/examples/ai-code-audit-report/ |
 
 ## Visual assets
@@ -41,6 +42,7 @@ site's canonical and sitemap.
 | --- | --- |
 | AI codebase understanding context map | https://www.romanticode.com/use-cases/ai-codebase-context/ |
 | AI app launch audit service | https://www.romanticode.com/services/ai-app-launch-audit/ |
+| AI app launch audit request template | https://www.romanticode.com/templates/ai-app-launch-audit-request-template/ |
 | Legacy code documentation | https://www.romanticode.com/use-cases/document-legacy-code/ |
 | Vibe code cleanup services prep | https://www.romanticode.com/use-cases/vibe-code-cleanup/ |
 | Vibe code cleanup checklist | https://www.romanticode.com/blog/vibe-code-cleanup-checklist/ |
@@ -114,6 +116,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/`.
 - Primary landing URL for AI app launch audit / AI-generated app cleanup scope / production handoff audiences:
   `https://www.romanticode.com/services/ai-app-launch-audit/`.
+- Primary template URL for AI app launch audit request / launch-readiness review brief / cleanup quote scoping audiences:
+  `https://www.romanticode.com/templates/ai-app-launch-audit-request-template/`.
 - Primary tool URL for vibe code cleanup cost / quote / budget audiences:
   `https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/`.
 - Primary tool URL for AGENTS.md / AI coding agent instructions audiences:

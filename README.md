@@ -54,6 +54,7 @@ It is built for the workflow developers actually face in 2026:
 - Vibe code cleanup cost calculator: https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/
 - AGENTS.md generator for AI coding agents: https://www.romanticode.com/tools/agents-md-generator/
 - PROJECT.md template for AI coding agents: https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/
+- AI app launch audit request template: https://www.romanticode.com/templates/ai-app-launch-audit-request-template/
 - Example audit report: https://www.romanticode.com/examples/ai-code-audit-report/
 
 ### Use cases and resources
@@ -63,6 +64,7 @@ It is built for the workflow developers actually face in 2026:
 - Vibe code cleanup checklist: https://www.romanticode.com/blog/vibe-code-cleanup-checklist/
 - Vibe code cleanup brief template: https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/
 - AI app launch audit service: https://www.romanticode.com/services/ai-app-launch-audit/
+- AI app launch audit request template: https://www.romanticode.com/templates/ai-app-launch-audit-request-template/
 - Legacy code documentation: https://www.romanticode.com/use-cases/document-legacy-code/
 - AI coding model comparison workflow hub: https://www.romanticode.com/ai-models/
 - Composer 2.5 context pack guide: https://www.romanticode.com/ai-models/composer-2-5/
@@ -86,6 +88,7 @@ It is built for the workflow developers actually face in 2026:
 - [PROJECT.md template for AI coding agents](https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/) — copy a project context template for Codex, Claude Code, Cursor, Copilot, and other AI coding agents.
 - [Vibe coding cleanup specialist](https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/) — understand cost, scope, and handoff prep before hiring a cleanup specialist.
 - [AI app launch audit](https://www.romanticode.com/services/ai-app-launch-audit/) — request launch-readiness review before real users, demos, cleanup services, or production handoff.
+- [AI app launch audit request template](https://www.romanticode.com/templates/ai-app-launch-audit-request-template/) — copy a request brief before asking for launch-readiness review, cleanup quote, investor demo check, or developer handoff.
 - [Legacy code documentation](https://www.romanticode.com/use-cases/document-legacy-code/) — generate JSDoc, Markdown docs, architecture maps, module summaries, and AI-ready handoff context before cleanup.
 - [AI code audit pricing](https://www.romanticode.com/pricing/) — compare free and Pro options for audit-ready docs, cleanup handoff, and VS Code context packs.
 - [VS Code extension privacy policy](https://www.romanticode.com/privacy/) — review local-first code handling, BYOK provider keys, no RomantiCode code storage, and no extension telemetry.
