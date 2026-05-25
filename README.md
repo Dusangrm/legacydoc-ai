@@ -57,6 +57,7 @@ It is built for the workflow developers actually face in 2026:
 - AI codebase map example: https://www.romanticode.com/examples/ai-codebase-map-example/
 - Claude Code context file checklist: https://www.romanticode.com/blog/claude-code-context-file-checklist/
 - Cursor rules vs AGENTS.md: https://www.romanticode.com/blog/cursor-rules-vs-agents-md/
+- VS Code AI extension permissions checklist: https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/
 - AI app launch audit request template: https://www.romanticode.com/templates/ai-app-launch-audit-request-template/
 - Example audit report: https://www.romanticode.com/examples/ai-code-audit-report/
 
@@ -66,6 +67,7 @@ It is built for the workflow developers actually face in 2026:
 - AI codebase map example: https://www.romanticode.com/examples/ai-codebase-map-example/
 - Claude Code context file checklist: https://www.romanticode.com/blog/claude-code-context-file-checklist/
 - Cursor rules vs AGENTS.md: https://www.romanticode.com/blog/cursor-rules-vs-agents-md/
+- VS Code AI extension permissions checklist: https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/
 - Vibe code cleanup prep: https://www.romanticode.com/use-cases/vibe-code-cleanup/
 - Vibe code cleanup checklist: https://www.romanticode.com/blog/vibe-code-cleanup-checklist/
 - Vibe code cleanup brief template: https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/
@@ -95,6 +97,7 @@ It is built for the workflow developers actually face in 2026:
 - [PROJECT.md template for AI coding agents](https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/) — copy a project context template for Codex, Claude Code, Cursor, Copilot, and other AI coding agents.
 - [Claude Code context file checklist](https://www.romanticode.com/blog/claude-code-context-file-checklist/) — prepare CLAUDE.md, PROJECT.md, AGENTS.md, repo maps, commands, boundaries, and verification notes before a Claude Code session.
 - [Cursor rules vs AGENTS.md](https://www.romanticode.com/blog/cursor-rules-vs-agents-md/) — decide which instructions belong in Cursor rules, AGENTS.md, PROJECT.md, and generated audit reports.
+- [VS Code AI extension permissions checklist](https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/) — review workspace access, provider routing, terminals, secrets, VS Code profiles, and approval evidence before installing AI coding extensions.
 - [Vibe coding cleanup specialist](https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/) — understand cost, scope, and handoff prep before hiring a cleanup specialist.
 - [AI app launch audit](https://www.romanticode.com/services/ai-app-launch-audit/) — request launch-readiness review before real users, demos, cleanup services, or production handoff.
 - [AI app launch audit request template](https://www.romanticode.com/templates/ai-app-launch-audit-request-template/) — copy a request brief before asking for launch-readiness review, cleanup quote, investor demo check, or developer handoff.

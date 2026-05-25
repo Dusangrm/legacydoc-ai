@@ -27,6 +27,7 @@ site's canonical and sitemap.
 | AI codebase map example | https://www.romanticode.com/examples/ai-codebase-map-example/ |
 | Claude Code context file checklist | https://www.romanticode.com/blog/claude-code-context-file-checklist/ |
 | Cursor rules vs AGENTS.md | https://www.romanticode.com/blog/cursor-rules-vs-agents-md/ |
+| VS Code AI extension permissions checklist | https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/ |
 | AI app launch audit request template | https://www.romanticode.com/templates/ai-app-launch-audit-request-template/ |
 | Example audit report | https://www.romanticode.com/examples/ai-code-audit-report/ |
 
@@ -55,6 +56,7 @@ site's canonical and sitemap.
 | Vibe code cleanup brief template | https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/ |
 | Best way to get AI to completely refactor frontend code | https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/ |
 | VS Code extension security checklist | https://www.romanticode.com/blog/vs-code-extension-security-checklist/ |
+| VS Code AI extension permissions checklist | https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/ |
 | AI code audit checklist | https://www.romanticode.com/blog/ai-code-audit-checklist/ |
 | AI app production readiness checklist | https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/ |
 | What is a vibe code cleanup specialist | https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/ |
@@ -134,6 +136,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/codegraph-token-savings-calculator/`.
 - Primary resource URL for VS Code extension security / malicious extension / developer workstation trust audiences:
   `https://www.romanticode.com/blog/vs-code-extension-security-checklist/`.
+- Primary resource URL for VS Code AI extension permissions / AI coding extension data access / provider routing / developer workstation trust audiences:
+  `https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/`.
 - Primary landing URL for AI codebase understanding / codebase knowledge graph / PROJECT.md template audiences:
   `https://www.romanticode.com/use-cases/ai-codebase-context/`.
 - Primary example URL for AI codebase map example / coding-agent context example / repo map handoff audiences:
