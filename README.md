@@ -49,6 +49,7 @@ It is built for the workflow developers actually face in 2026:
 ### Tools and examples
 
 - Audit and verify AI-generated code in VS Code: https://www.romanticode.com/tools/ai-code-audit-report/
+- AI code audit cost calculator: https://www.romanticode.com/tools/ai-code-audit-cost-calculator/
 - AI code audit report template: https://www.romanticode.com/templates/ai-code-audit-report-template/
 - CodeGraph token savings calculator: https://www.romanticode.com/tools/codegraph-token-savings-calculator/
 - Vibe code cleanup cost calculator: https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/
@@ -91,6 +92,7 @@ It is built for the workflow developers actually face in 2026:
 - [Vibe code cleanup brief template](https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/) — copy a quote-ready brief for product context, architecture notes, risk areas, cleanup priorities, and verification.
 - [Code graph for coding agents](https://www.romanticode.com/tools/codegraph-token-savings-calculator/) — estimate token, tool-call, and context prep savings before adopting graph-based agent workflows.
 - [Audit AI code](https://www.romanticode.com/tools/ai-code-audit-report/) — generate an audit-ready context pack before cleanup, refactor, review, or launch.
+- [AI code audit cost calculator](https://www.romanticode.com/tools/ai-code-audit-cost-calculator/) — estimate discovery hours, report scope, and review budget before asking for an AI-generated code audit quote.
 - [AI code audit report template](https://www.romanticode.com/templates/ai-code-audit-report-template/) — copy the report structure for architecture context, inspection areas, cleanup priorities, and AI-ready handoff notes.
 - [AI codebase understanding](https://www.romanticode.com/use-cases/ai-codebase-context/) — create a codebase map and PROJECT.md-style brief for Claude Code, Cursor, Codex, and other AI coding tools.
 - [AI codebase map example](https://www.romanticode.com/examples/ai-codebase-map-example/) — study a sample codebase map with entry points, module ownership, data flow, risk areas, and review boundaries.
