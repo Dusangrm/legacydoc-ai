@@ -19,6 +19,7 @@ site's canonical and sitemap.
 | Purpose | URL |
 | --- | --- |
 | Audit and verify AI-generated code in VS Code tool | https://www.romanticode.com/tools/ai-code-audit-report/ |
+| AI code audit report template | https://www.romanticode.com/templates/ai-code-audit-report-template/ |
 | CodeGraph token savings calculator | https://www.romanticode.com/tools/codegraph-token-savings-calculator/ |
 | Vibe code cleanup cost calculator | https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/ |
 | AGENTS.md generator for AI coding agents | https://www.romanticode.com/tools/agents-md-generator/ |
@@ -100,6 +101,8 @@ site's canonical and sitemap.
   trailing-slash URL directly.
 - Primary landing URL for "audit AI code", AI-generated code audit, and AI code verification directories:
   `https://www.romanticode.com/tools/ai-code-audit-report/`.
+- Primary template URL for AI code audit report template / audit handoff template / cleanup report template audiences:
+  `https://www.romanticode.com/templates/ai-code-audit-report-template/`.
 - Primary landing URL for AI-generated code / vibe code cleanup services prep audiences:
   `https://www.romanticode.com/use-cases/vibe-code-cleanup/`.
 - Primary landing URL for AI app launch audit / AI-generated app cleanup scope / production handoff audiences:

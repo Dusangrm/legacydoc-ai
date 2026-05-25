@@ -49,6 +49,7 @@ It is built for the workflow developers actually face in 2026:
 ### Tools and examples
 
 - Audit and verify AI-generated code in VS Code: https://www.romanticode.com/tools/ai-code-audit-report/
+- AI code audit report template: https://www.romanticode.com/templates/ai-code-audit-report-template/
 - CodeGraph token savings calculator: https://www.romanticode.com/tools/codegraph-token-savings-calculator/
 - Vibe code cleanup cost calculator: https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/
 - AGENTS.md generator for AI coding agents: https://www.romanticode.com/tools/agents-md-generator/
@@ -75,6 +76,7 @@ It is built for the workflow developers actually face in 2026:
 - [Vibe code cleanup](https://www.romanticode.com/use-cases/vibe-code-cleanup/) — prepare the architecture map, risk notes, cleanup priorities, and quote pack before refactoring AI-generated code.
 - [Code graph for coding agents](https://www.romanticode.com/tools/codegraph-token-savings-calculator/) — estimate token, tool-call, and context prep savings before adopting graph-based agent workflows.
 - [Audit AI code](https://www.romanticode.com/tools/ai-code-audit-report/) — generate an audit-ready context pack before cleanup, refactor, review, or launch.
+- [AI code audit report template](https://www.romanticode.com/templates/ai-code-audit-report-template/) — copy the report structure for architecture context, inspection areas, cleanup priorities, and AI-ready handoff notes.
 - [AI codebase understanding](https://www.romanticode.com/use-cases/ai-codebase-context/) — create a codebase map and PROJECT.md-style brief for Claude Code, Cursor, Codex, and other AI coding tools.
 - [Vibe coding cleanup specialist](https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/) — understand cost, scope, and handoff prep before hiring a cleanup specialist.
 - [AI app launch audit](https://www.romanticode.com/services/ai-app-launch-audit/) — request launch-readiness review before real users, demos, cleanup services, or production handoff.
