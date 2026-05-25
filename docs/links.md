@@ -23,6 +23,7 @@ site's canonical and sitemap.
 | CodeGraph token savings calculator | https://www.romanticode.com/tools/codegraph-token-savings-calculator/ |
 | Vibe code cleanup cost calculator | https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/ |
 | AGENTS.md generator for AI coding agents | https://www.romanticode.com/tools/agents-md-generator/ |
+| PROJECT.md template for AI coding agents | https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/ |
 | Example audit report | https://www.romanticode.com/examples/ai-code-audit-report/ |
 
 ## Visual assets
@@ -117,6 +118,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/`.
 - Primary tool URL for AGENTS.md / AI coding agent instructions audiences:
   `https://www.romanticode.com/tools/agents-md-generator/`.
+- Primary template URL for PROJECT.md template / AI coding project context / Codex project brief audiences:
+  `https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/`.
 - Primary tool URL for code graph / coding agent token savings / AI codebase understanding audiences:
   `https://www.romanticode.com/tools/codegraph-token-savings-calculator/`.
 - Primary resource URL for VS Code extension security / malicious extension / developer workstation trust audiences:

@@ -53,6 +53,7 @@ It is built for the workflow developers actually face in 2026:
 - CodeGraph token savings calculator: https://www.romanticode.com/tools/codegraph-token-savings-calculator/
 - Vibe code cleanup cost calculator: https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/
 - AGENTS.md generator for AI coding agents: https://www.romanticode.com/tools/agents-md-generator/
+- PROJECT.md template for AI coding agents: https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/
 - Example audit report: https://www.romanticode.com/examples/ai-code-audit-report/
 
 ### Use cases and resources
@@ -82,6 +83,7 @@ It is built for the workflow developers actually face in 2026:
 - [Audit AI code](https://www.romanticode.com/tools/ai-code-audit-report/) — generate an audit-ready context pack before cleanup, refactor, review, or launch.
 - [AI code audit report template](https://www.romanticode.com/templates/ai-code-audit-report-template/) — copy the report structure for architecture context, inspection areas, cleanup priorities, and AI-ready handoff notes.
 - [AI codebase understanding](https://www.romanticode.com/use-cases/ai-codebase-context/) — create a codebase map and PROJECT.md-style brief for Claude Code, Cursor, Codex, and other AI coding tools.
+- [PROJECT.md template for AI coding agents](https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/) — copy a project context template for Codex, Claude Code, Cursor, Copilot, and other AI coding agents.
 - [Vibe coding cleanup specialist](https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/) — understand cost, scope, and handoff prep before hiring a cleanup specialist.
 - [AI app launch audit](https://www.romanticode.com/services/ai-app-launch-audit/) — request launch-readiness review before real users, demos, cleanup services, or production handoff.
 - [Legacy code documentation](https://www.romanticode.com/use-cases/document-legacy-code/) — generate JSDoc, Markdown docs, architecture maps, module summaries, and AI-ready handoff context before cleanup.
