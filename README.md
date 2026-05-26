@@ -56,6 +56,7 @@ It is built for the workflow developers actually face in 2026:
 - AGENTS.md generator for AI coding agents: https://www.romanticode.com/tools/agents-md-generator/
 - PROJECT.md template for AI coding agents: https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/
 - AI codebase map example: https://www.romanticode.com/examples/ai-codebase-map-example/
+- Codebase to LLM file packer guide: https://www.romanticode.com/blog/codebase-to-llm-file-packer/
 - Claude Code context file checklist: https://www.romanticode.com/blog/claude-code-context-file-checklist/
 - Cursor rules vs AGENTS.md: https://www.romanticode.com/blog/cursor-rules-vs-agents-md/
 - VS Code AI extension permissions checklist: https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/
@@ -66,6 +67,7 @@ It is built for the workflow developers actually face in 2026:
 
 - AI codebase understanding context map: https://www.romanticode.com/use-cases/ai-codebase-context/
 - AI codebase map example: https://www.romanticode.com/examples/ai-codebase-map-example/
+- Codebase to LLM file packer guide: https://www.romanticode.com/blog/codebase-to-llm-file-packer/
 - Claude Code context file checklist: https://www.romanticode.com/blog/claude-code-context-file-checklist/
 - Cursor rules vs AGENTS.md: https://www.romanticode.com/blog/cursor-rules-vs-agents-md/
 - VS Code AI extension permissions checklist: https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/
@@ -96,6 +98,7 @@ It is built for the workflow developers actually face in 2026:
 - [AI code audit report template](https://www.romanticode.com/templates/ai-code-audit-report-template/) — copy the report structure for architecture context, inspection areas, cleanup priorities, and AI-ready handoff notes.
 - [AI codebase understanding](https://www.romanticode.com/use-cases/ai-codebase-context/) — create a codebase map and PROJECT.md-style brief for Claude Code, Cursor, Codex, and other AI coding tools.
 - [AI codebase map example](https://www.romanticode.com/examples/ai-codebase-map-example/) — study a sample codebase map with entry points, module ownership, data flow, risk areas, and review boundaries.
+- [Codebase to LLM file packer](https://www.romanticode.com/blog/codebase-to-llm-file-packer/) — choose files, map repo context, remove secrets, and build a clean LLM-ready bundle before pasting code into Claude, ChatGPT, Gemini, Cursor, or Codex.
 - [PROJECT.md template for AI coding agents](https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/) — copy a project context template for Codex, Claude Code, Cursor, Copilot, and other AI coding agents.
 - [Claude Code context file checklist](https://www.romanticode.com/blog/claude-code-context-file-checklist/) — prepare CLAUDE.md, PROJECT.md, AGENTS.md, repo maps, commands, boundaries, and verification notes before a Claude Code session.
 - [Cursor rules vs AGENTS.md](https://www.romanticode.com/blog/cursor-rules-vs-agents-md/) — decide which instructions belong in Cursor rules, AGENTS.md, PROJECT.md, and generated audit reports.

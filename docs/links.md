@@ -26,6 +26,7 @@ site's canonical and sitemap.
 | AGENTS.md generator for AI coding agents | https://www.romanticode.com/tools/agents-md-generator/ |
 | PROJECT.md template for AI coding agents | https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/ |
 | AI codebase map example | https://www.romanticode.com/examples/ai-codebase-map-example/ |
+| Codebase to LLM file packer guide | https://www.romanticode.com/blog/codebase-to-llm-file-packer/ |
 | Claude Code context file checklist | https://www.romanticode.com/blog/claude-code-context-file-checklist/ |
 | Cursor rules vs AGENTS.md | https://www.romanticode.com/blog/cursor-rules-vs-agents-md/ |
 | VS Code AI extension permissions checklist | https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/ |
@@ -47,6 +48,7 @@ site's canonical and sitemap.
 | --- | --- |
 | AI codebase understanding context map | https://www.romanticode.com/use-cases/ai-codebase-context/ |
 | AI codebase map example | https://www.romanticode.com/examples/ai-codebase-map-example/ |
+| Codebase to LLM file packer guide | https://www.romanticode.com/blog/codebase-to-llm-file-packer/ |
 | Claude Code context file checklist | https://www.romanticode.com/blog/claude-code-context-file-checklist/ |
 | Cursor rules vs AGENTS.md | https://www.romanticode.com/blog/cursor-rules-vs-agents-md/ |
 | AI app launch audit service | https://www.romanticode.com/services/ai-app-launch-audit/ |
@@ -145,6 +147,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/use-cases/ai-codebase-context/`.
 - Primary example URL for AI codebase map example / coding-agent context example / repo map handoff audiences:
   `https://www.romanticode.com/examples/ai-codebase-map-example/`.
+- Primary resource URL for codebase to LLM file packer / repo to LLM context / ChatGPT codebase file audiences:
+  `https://www.romanticode.com/blog/codebase-to-llm-file-packer/`.
 - Primary resource URL for Claude Code context file / CLAUDE.md checklist / project memory prep audiences:
   `https://www.romanticode.com/blog/claude-code-context-file-checklist/`.
 - Primary resource URL for Cursor rules vs AGENTS.md / AI coding agent instruction migration / project rules audiences:
