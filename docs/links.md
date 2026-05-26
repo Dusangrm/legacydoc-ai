@@ -27,6 +27,7 @@ site's canonical and sitemap.
 | PROJECT.md template for AI coding agents | https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/ |
 | AI codebase map example | https://www.romanticode.com/examples/ai-codebase-map-example/ |
 | Codebase to LLM file packer guide | https://www.romanticode.com/blog/codebase-to-llm-file-packer/ |
+| Lovable app code audit guide | https://www.romanticode.com/blog/how-to-audit-lovable-app-code/ |
 | Claude Code context file checklist | https://www.romanticode.com/blog/claude-code-context-file-checklist/ |
 | Cursor rules vs AGENTS.md | https://www.romanticode.com/blog/cursor-rules-vs-agents-md/ |
 | VS Code AI extension permissions checklist | https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/ |
@@ -49,6 +50,7 @@ site's canonical and sitemap.
 | AI codebase understanding context map | https://www.romanticode.com/use-cases/ai-codebase-context/ |
 | AI codebase map example | https://www.romanticode.com/examples/ai-codebase-map-example/ |
 | Codebase to LLM file packer guide | https://www.romanticode.com/blog/codebase-to-llm-file-packer/ |
+| Lovable app code audit guide | https://www.romanticode.com/blog/how-to-audit-lovable-app-code/ |
 | Claude Code context file checklist | https://www.romanticode.com/blog/claude-code-context-file-checklist/ |
 | Cursor rules vs AGENTS.md | https://www.romanticode.com/blog/cursor-rules-vs-agents-md/ |
 | AI app launch audit service | https://www.romanticode.com/services/ai-app-launch-audit/ |
