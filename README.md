@@ -52,6 +52,7 @@ It is built for the workflow developers actually face in 2026:
 - AI code audit cost calculator: https://www.romanticode.com/tools/ai-code-audit-cost-calculator/
 - LLM cost regression checker: https://www.romanticode.com/tools/llm-cost-regression-checker/
 - MCP security scanner: https://www.romanticode.com/tools/mcp-security-scanner/
+- npm scope compromise checker: https://www.romanticode.com/tools/npm-scope-compromise-checker/
 - AI code audit report template: https://www.romanticode.com/templates/ai-code-audit-report-template/
 - CodeGraph token savings calculator: https://www.romanticode.com/tools/codegraph-token-savings-calculator/
 - Vibe code cleanup cost calculator: https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/
@@ -76,6 +77,7 @@ It is built for the workflow developers actually face in 2026:
 - Cursor rules vs AGENTS.md: https://www.romanticode.com/blog/cursor-rules-vs-agents-md/
 - VS Code AI extension permissions checklist: https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/
 - MCP security scanner: https://www.romanticode.com/tools/mcp-security-scanner/
+- npm scope compromise checker: https://www.romanticode.com/tools/npm-scope-compromise-checker/
 - Vibe code cleanup prep: https://www.romanticode.com/use-cases/vibe-code-cleanup/
 - Vibe code cleanup checklist: https://www.romanticode.com/blog/vibe-code-cleanup-checklist/
 - Vibe code cleanup brief template: https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/
@@ -102,6 +104,7 @@ It is built for the workflow developers actually face in 2026:
 - [Code graph for coding agents](https://www.romanticode.com/tools/codegraph-token-savings-calculator/) — estimate token, tool-call, and context prep savings before adopting graph-based agent workflows.
 - [LLM cost regression checker](https://www.romanticode.com/tools/llm-cost-regression-checker/) — estimate whether a pull request, model switch, reviewer agent, or tool-output change could raise recurring AI coding cost.
 - [MCP security scanner](https://www.romanticode.com/tools/mcp-security-scanner/) — review MCP server tools, file access, secrets, network egress, prompt injection risk, and agent trust before connecting AI coding workflows.
+- [npm scope compromise checker](https://www.romanticode.com/tools/npm-scope-compromise-checker/) — review lockfiles, lifecycle scripts, registry sources, and scoped-package changes before AI agents or CI trust a dependency update.
 - [Audit AI code](https://www.romanticode.com/tools/ai-code-audit-report/) — generate an audit-ready context pack before cleanup, refactor, review, or launch.
 - [AI code audit cost calculator](https://www.romanticode.com/tools/ai-code-audit-cost-calculator/) — estimate discovery hours, report scope, and review budget before asking for an AI-generated code audit quote.
 - [AI code audit report template](https://www.romanticode.com/templates/ai-code-audit-report-template/) — copy the report structure for architecture context, inspection areas, cleanup priorities, and AI-ready handoff notes.
