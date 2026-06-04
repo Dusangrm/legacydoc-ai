@@ -10,6 +10,7 @@ site's canonical and sitemap.
 | Home | https://www.romanticode.com/ |
 | Product page | https://www.romanticode.com/legacydoc-ai/ |
 | Pricing page | https://www.romanticode.com/pricing/ |
+| Vibe coding cleanup services prep | https://www.romanticode.com/services/vibe-coding-cleanup-services/ |
 | AI App Launch Audit service | https://www.romanticode.com/services/ai-app-launch-audit/ |
 | VS Code Marketplace | https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai |
 | Pro checkout direct | https://www.creem.io/payment/prod_6A1crhhY1jAOyEPrIkJPuY |
@@ -63,6 +64,7 @@ site's canonical and sitemap.
 | AI app launch audit service | https://www.romanticode.com/services/ai-app-launch-audit/ |
 | AI app launch audit request template | https://www.romanticode.com/templates/ai-app-launch-audit-request-template/ |
 | Legacy code documentation | https://www.romanticode.com/use-cases/document-legacy-code/ |
+| Vibe coding cleanup services prep | https://www.romanticode.com/services/vibe-coding-cleanup-services/ |
 | Vibe code cleanup services prep | https://www.romanticode.com/use-cases/vibe-code-cleanup/ |
 | Vibe code cleanup checklist | https://www.romanticode.com/blog/vibe-code-cleanup-checklist/ |
 | Vibe code cleanup brief template | https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/ |
@@ -138,7 +140,9 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/npm-scope-compromise-checker/`.
 - Primary template URL for AI code audit report template / audit handoff template / cleanup report template audiences:
   `https://www.romanticode.com/templates/ai-code-audit-report-template/`.
-- Primary landing URL for AI-generated code / vibe code cleanup services prep audiences:
+- Primary landing URL for vibe coding cleanup services / AI-generated app cleanup services / cleanup quote prep audiences:
+  `https://www.romanticode.com/services/vibe-coding-cleanup-services/`.
+- Primary resource URL for AI-generated code / vibe code cleanup prep / cleanup readiness audiences:
   `https://www.romanticode.com/use-cases/vibe-code-cleanup/`.
 - Primary resource URL for vibe code cleanup checklist / before refactor / cleanup prep checklist audiences:
   `https://www.romanticode.com/blog/vibe-code-cleanup-checklist/`.

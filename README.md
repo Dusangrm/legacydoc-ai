@@ -43,6 +43,7 @@ It is built for the workflow developers actually face in 2026:
 - Website: https://www.romanticode.com/
 - Product page: https://www.romanticode.com/legacydoc-ai/
 - Pricing: https://www.romanticode.com/pricing/
+- Vibe coding cleanup services prep: https://www.romanticode.com/services/vibe-coding-cleanup-services/
 - AI App Launch Audit: https://www.romanticode.com/services/ai-app-launch-audit/
 - VS Code Marketplace: https://marketplace.visualstudio.com/items?itemName=ruilegendoc.legacy-doc-ai
 
@@ -79,6 +80,7 @@ It is built for the workflow developers actually face in 2026:
 - VS Code AI extension permissions checklist: https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/
 - MCP security scanner: https://www.romanticode.com/tools/mcp-security-scanner/
 - npm scope compromise checker: https://www.romanticode.com/tools/npm-scope-compromise-checker/
+- Vibe coding cleanup services prep: https://www.romanticode.com/services/vibe-coding-cleanup-services/
 - Vibe code cleanup prep: https://www.romanticode.com/use-cases/vibe-code-cleanup/
 - Vibe code cleanup checklist: https://www.romanticode.com/blog/vibe-code-cleanup-checklist/
 - Vibe code cleanup brief template: https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/
@@ -99,7 +101,7 @@ It is built for the workflow developers actually face in 2026:
 
 ### Current SEO target pages
 
-- [Vibe coding cleanup services](https://www.romanticode.com/) — prepare an AI-generated app with an audit report, architecture map, cleanup priorities, and a quote-ready handoff before hiring cleanup help.
+- [Vibe coding cleanup services](https://www.romanticode.com/services/vibe-coding-cleanup-services/) — prepare an AI-generated app with an audit report, architecture map, cleanup priorities, and a quote-ready handoff before hiring cleanup help.
 - [Vibe code cleanup](https://www.romanticode.com/use-cases/vibe-code-cleanup/) — prepare the architecture map, risk notes, cleanup priorities, and quote pack before refactoring AI-generated code.
 - [Vibe code cleanup checklist](https://www.romanticode.com/blog/vibe-code-cleanup-checklist/) — run a cleanup checklist before refactor, AI coding agent work, or a specialist quote.
 - [Vibe code cleanup brief template](https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/) — copy a quote-ready brief for product context, architecture notes, risk areas, cleanup priorities, and verification.
