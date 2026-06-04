@@ -21,6 +21,7 @@ site's canonical and sitemap.
 | Audit and verify AI-generated code in VS Code tool | https://www.romanticode.com/tools/ai-code-audit-report/ |
 | AI code audit cost calculator | https://www.romanticode.com/tools/ai-code-audit-cost-calculator/ |
 | LLM cost regression checker | https://www.romanticode.com/tools/llm-cost-regression-checker/ |
+| MCP security scanner | https://www.romanticode.com/tools/mcp-security-scanner/ |
 | AI code audit report template | https://www.romanticode.com/templates/ai-code-audit-report-template/ |
 | CodeGraph token savings calculator | https://www.romanticode.com/tools/codegraph-token-savings-calculator/ |
 | Vibe code cleanup cost calculator | https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/ |
@@ -65,6 +66,7 @@ site's canonical and sitemap.
 | Best way to get AI to completely refactor frontend code | https://www.romanticode.com/blog/best-way-to-refactor-frontend-code-with-ai/ |
 | VS Code extension security checklist | https://www.romanticode.com/blog/vs-code-extension-security-checklist/ |
 | VS Code AI extension permissions checklist | https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/ |
+| MCP security scanner | https://www.romanticode.com/tools/mcp-security-scanner/ |
 | AI code audit checklist | https://www.romanticode.com/blog/ai-code-audit-checklist/ |
 | AI app production readiness checklist | https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/ |
 | What is a vibe code cleanup specialist | https://www.romanticode.com/blog/what-is-a-vibe-code-cleanup-specialist/ |
@@ -126,6 +128,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/ai-code-audit-cost-calculator/`.
 - Primary tool URL for LLM cost regression / AI coding cost / Copilot billing calculator / MCP savings audiences:
   `https://www.romanticode.com/tools/llm-cost-regression-checker/`.
+- Primary tool URL for MCP security scanner / MCP server security checklist / AI agent tool security audiences:
+  `https://www.romanticode.com/tools/mcp-security-scanner/`.
 - Primary template URL for AI code audit report template / audit handoff template / cleanup report template audiences:
   `https://www.romanticode.com/templates/ai-code-audit-report-template/`.
 - Primary landing URL for AI-generated code / vibe code cleanup services prep audiences:
