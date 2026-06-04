@@ -62,6 +62,7 @@ It is built for the workflow developers actually face in 2026:
 - Codebase to LLM file packer guide: https://www.romanticode.com/blog/codebase-to-llm-file-packer/
 - Bolt app code audit guide: https://www.romanticode.com/blog/how-to-audit-bolt-app-code/
 - Lovable app code audit guide: https://www.romanticode.com/blog/how-to-audit-lovable-app-code/
+- AI generated code architecture audit: https://www.romanticode.com/blog/ai-generated-code-architecture-audit/
 - Claude Code context file checklist: https://www.romanticode.com/blog/claude-code-context-file-checklist/
 - Cursor rules vs AGENTS.md: https://www.romanticode.com/blog/cursor-rules-vs-agents-md/
 - VS Code AI extension permissions checklist: https://www.romanticode.com/blog/vs-code-ai-extension-permissions-checklist/
@@ -85,6 +86,7 @@ It is built for the workflow developers actually face in 2026:
 - AI app launch audit request template: https://www.romanticode.com/templates/ai-app-launch-audit-request-template/
 - Bolt app code audit guide: https://www.romanticode.com/blog/how-to-audit-bolt-app-code/
 - Lovable app code audit guide: https://www.romanticode.com/blog/how-to-audit-lovable-app-code/
+- AI generated code architecture audit: https://www.romanticode.com/blog/ai-generated-code-architecture-audit/
 - Legacy code documentation: https://www.romanticode.com/use-cases/document-legacy-code/
 - AI coding model comparison workflow hub: https://www.romanticode.com/ai-models/
 - Composer 2.5 context pack guide: https://www.romanticode.com/ai-models/composer-2-5/
@@ -113,6 +115,7 @@ It is built for the workflow developers actually face in 2026:
 - [Codebase to LLM file packer](https://www.romanticode.com/blog/codebase-to-llm-file-packer/) — choose files, map repo context, remove secrets, and build a clean LLM-ready bundle before pasting code into Claude, ChatGPT, Gemini, Cursor, or Codex.
 - [How to audit Bolt app code](https://www.romanticode.com/blog/how-to-audit-bolt-app-code/) — review routes, Supabase policies, secrets, payments, failure paths, and cleanup handoff before launching a Bolt-built app.
 - [How to audit Lovable app code](https://www.romanticode.com/blog/how-to-audit-lovable-app-code/) — review routes, Supabase policies, secrets, payments, failure paths, and cleanup handoff before launching a Lovable-built app.
+- [AI generated code architecture audit](https://www.romanticode.com/blog/ai-generated-code-architecture-audit/) — map entry points, ownership, data flow, generated assumptions, and cleanup risk before AI agents or developers refactor an AI-built app.
 - [PROJECT.md template for AI coding agents](https://www.romanticode.com/templates/project-md-template-for-ai-coding-agents/) — copy a project context template for Codex, Claude Code, Cursor, Copilot, and other AI coding agents.
 - [Claude Code context file checklist](https://www.romanticode.com/blog/claude-code-context-file-checklist/) — prepare CLAUDE.md, PROJECT.md, AGENTS.md, repo maps, commands, boundaries, and verification notes before a Claude Code session.
 - [Cursor rules vs AGENTS.md](https://www.romanticode.com/blog/cursor-rules-vs-agents-md/) — decide which instructions belong in Cursor rules, AGENTS.md, PROJECT.md, and generated audit reports.
