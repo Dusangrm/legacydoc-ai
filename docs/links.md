@@ -20,6 +20,7 @@ site's canonical and sitemap.
 | --- | --- |
 | Audit and verify AI-generated code in VS Code tool | https://www.romanticode.com/tools/ai-code-audit-report/ |
 | AI code audit cost calculator | https://www.romanticode.com/tools/ai-code-audit-cost-calculator/ |
+| LLM cost regression checker | https://www.romanticode.com/tools/llm-cost-regression-checker/ |
 | AI code audit report template | https://www.romanticode.com/templates/ai-code-audit-report-template/ |
 | CodeGraph token savings calculator | https://www.romanticode.com/tools/codegraph-token-savings-calculator/ |
 | Vibe code cleanup cost calculator | https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/ |
@@ -123,6 +124,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/ai-code-audit-report/`.
 - Primary tool URL for AI code audit cost / audit pricing / AI-generated code audit quote audiences:
   `https://www.romanticode.com/tools/ai-code-audit-cost-calculator/`.
+- Primary tool URL for LLM cost regression / AI coding cost / Copilot billing calculator / MCP savings audiences:
+  `https://www.romanticode.com/tools/llm-cost-regression-checker/`.
 - Primary template URL for AI code audit report template / audit handoff template / cleanup report template audiences:
   `https://www.romanticode.com/templates/ai-code-audit-report-template/`.
 - Primary landing URL for AI-generated code / vibe code cleanup services prep audiences:

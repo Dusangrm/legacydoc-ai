@@ -50,6 +50,7 @@ It is built for the workflow developers actually face in 2026:
 
 - Audit and verify AI-generated code in VS Code: https://www.romanticode.com/tools/ai-code-audit-report/
 - AI code audit cost calculator: https://www.romanticode.com/tools/ai-code-audit-cost-calculator/
+- LLM cost regression checker: https://www.romanticode.com/tools/llm-cost-regression-checker/
 - AI code audit report template: https://www.romanticode.com/templates/ai-code-audit-report-template/
 - CodeGraph token savings calculator: https://www.romanticode.com/tools/codegraph-token-savings-calculator/
 - Vibe code cleanup cost calculator: https://www.romanticode.com/tools/vibe-code-cleanup-cost-calculator/
@@ -97,6 +98,7 @@ It is built for the workflow developers actually face in 2026:
 - [Vibe code cleanup checklist](https://www.romanticode.com/blog/vibe-code-cleanup-checklist/) — run a cleanup checklist before refactor, AI coding agent work, or a specialist quote.
 - [Vibe code cleanup brief template](https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/) — copy a quote-ready brief for product context, architecture notes, risk areas, cleanup priorities, and verification.
 - [Code graph for coding agents](https://www.romanticode.com/tools/codegraph-token-savings-calculator/) — estimate token, tool-call, and context prep savings before adopting graph-based agent workflows.
+- [LLM cost regression checker](https://www.romanticode.com/tools/llm-cost-regression-checker/) — estimate whether a pull request, model switch, reviewer agent, or tool-output change could raise recurring AI coding cost.
 - [Audit AI code](https://www.romanticode.com/tools/ai-code-audit-report/) — generate an audit-ready context pack before cleanup, refactor, review, or launch.
 - [AI code audit cost calculator](https://www.romanticode.com/tools/ai-code-audit-cost-calculator/) — estimate discovery hours, report scope, and review budget before asking for an AI-generated code audit quote.
 - [AI code audit report template](https://www.romanticode.com/templates/ai-code-audit-report-template/) — copy the report structure for architecture context, inspection areas, cleanup priorities, and AI-ready handoff notes.
