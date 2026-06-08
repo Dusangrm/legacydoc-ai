@@ -52,6 +52,7 @@ It is built for the workflow developers actually face in 2026:
 - Audit and verify AI-generated code in VS Code: https://www.romanticode.com/tools/ai-code-audit-report/
 - AI code audit cost calculator: https://www.romanticode.com/tools/ai-code-audit-cost-calculator/
 - LLM cost regression checker: https://www.romanticode.com/tools/llm-cost-regression-checker/
+- AI quota tracker: https://www.romanticode.com/tools/ai-quota-tracker/
 - MCP security scanner: https://www.romanticode.com/tools/mcp-security-scanner/
 - npm scope compromise checker: https://www.romanticode.com/tools/npm-scope-compromise-checker/
 - AI code audit report template: https://www.romanticode.com/templates/ai-code-audit-report-template/
@@ -107,6 +108,7 @@ It is built for the workflow developers actually face in 2026:
 - [Vibe code cleanup brief template](https://www.romanticode.com/templates/vibe-code-cleanup-brief-template/) — copy a quote-ready brief for product context, architecture notes, risk areas, cleanup priorities, and verification.
 - [Code graph for coding agents](https://www.romanticode.com/tools/codegraph-token-savings-calculator/) — estimate token, tool-call, and context prep savings before adopting graph-based agent workflows.
 - [LLM cost regression checker](https://www.romanticode.com/tools/llm-cost-regression-checker/) — estimate whether a pull request, model switch, reviewer agent, or tool-output change could raise recurring AI coding cost.
+- [AI quota tracker](https://www.romanticode.com/tools/ai-quota-tracker/) — plan Claude, Codex, Gemini, Copilot, and coding-agent quota usage before a team runs out mid-task.
 - [MCP security scanner](https://www.romanticode.com/tools/mcp-security-scanner/) — review MCP server tools, file access, secrets, network egress, prompt injection risk, and agent trust before connecting AI coding workflows.
 - [npm scope compromise checker](https://www.romanticode.com/tools/npm-scope-compromise-checker/) — review lockfiles, lifecycle scripts, registry sources, and scoped-package changes before AI agents or CI trust a dependency update.
 - [Audit AI code](https://www.romanticode.com/tools/ai-code-audit-report/) — generate an audit-ready context pack before cleanup, refactor, review, or launch.

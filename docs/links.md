@@ -22,6 +22,7 @@ site's canonical and sitemap.
 | Audit and verify AI-generated code in VS Code tool | https://www.romanticode.com/tools/ai-code-audit-report/ |
 | AI code audit cost calculator | https://www.romanticode.com/tools/ai-code-audit-cost-calculator/ |
 | LLM cost regression checker | https://www.romanticode.com/tools/llm-cost-regression-checker/ |
+| AI quota tracker | https://www.romanticode.com/tools/ai-quota-tracker/ |
 | MCP security scanner | https://www.romanticode.com/tools/mcp-security-scanner/ |
 | npm scope compromise checker | https://www.romanticode.com/tools/npm-scope-compromise-checker/ |
 | AI code audit report template | https://www.romanticode.com/templates/ai-code-audit-report-template/ |
@@ -134,6 +135,8 @@ site's canonical and sitemap.
   `https://www.romanticode.com/tools/ai-code-audit-cost-calculator/`.
 - Primary tool URL for LLM cost regression / AI coding cost / Copilot billing calculator / MCP savings audiences:
   `https://www.romanticode.com/tools/llm-cost-regression-checker/`.
+- Primary tool URL for AI quota tracker / coding agent quota tracker / Claude quota tracker / Codex quota tracker audiences:
+  `https://www.romanticode.com/tools/ai-quota-tracker/`.
 - Primary tool URL for MCP security scanner / MCP server security checklist / AI agent tool security audiences:
   `https://www.romanticode.com/tools/mcp-security-scanner/`.
 - Primary tool URL for npm scope compromise checker / npm package compromise / lockfile security checker audiences:
